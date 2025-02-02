@@ -435,7 +435,7 @@ th {
 }
 @media screen and (min-width: 320px) {
   body {
-    background-clolr: white;
+    background-color: black;
   }
   h1 {
     color: black;
@@ -453,7 +453,7 @@ th {
 /* Desktops and Laptops*/
 @media screen and(min-width:1224px) and (max-width: 1823) {
   body {
-    background-color: white;
+    background-color: black;
   }
 }
 /* Large Scren*/

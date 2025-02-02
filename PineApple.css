@@ -444,7 +444,7 @@ th {
 /* Tablet Ipad*/
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   body {
-    background-color: white;
+    background-color: black;
   }
   h1 {
     color: black;
@@ -459,7 +459,7 @@ th {
 /* Large Scren*/
 @media screen and(min-width:1824px) {
   body {
-    background-color: white;
+    background-color: black;
   }
   h1 {
     color: black;
